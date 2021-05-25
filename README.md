@@ -10,4 +10,6 @@ and
 
 `npm start`
 
-####
+#### 스택
+
+- react + styled-componet + redux-toolkit + aixos
