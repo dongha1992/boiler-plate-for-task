@@ -12,4 +12,4 @@ and
 
 #### 스택
 
-- react + styled-componet + redux-toolkit + aixos
+- react + styled-componet + redux-toolkit + axios
